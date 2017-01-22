@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Cases
-permalink: /cases/
+layout: work
+title: Work
+permalink: /work/
 ---
 
-Hier komen de cases.
+Hier komt werk info.
